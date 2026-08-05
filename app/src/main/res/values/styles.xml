@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.Aether" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:colorAccent">@color/aether_primary</item>
+        <item name="android:windowBackground">@color/aether_background</item>
+        <item name="android:navigationBarColor">@color/aether_background</item>
+        <item name="android:statusBarColor">@color/aether_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

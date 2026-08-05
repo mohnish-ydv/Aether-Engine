@@ -1,0 +1,2 @@
+-keep class com.mohnishraj.aether.** { *; }
+-keep class com.mohnishraj.aether.core.** { *; }
